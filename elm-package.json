@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A simple version of the classic tic-tac-toe game",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/jasonu/elm-tic-tac-toe.git",
     "license": "BSD3",
     "source-directories": [
         "src"
